@@ -1,4 +1,4 @@
-import { Home, Login, AccountType } from "./index.tsx"
+import { Home, Login, AccountType } from "../index.tsx"
 
 export const routes = [
     {
