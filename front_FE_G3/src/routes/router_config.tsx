@@ -1,16 +1,16 @@
-import { Home, Login, AccountType } from "../index.tsx"
+import { Home, Login, SelecReg } from "../index.tsx"
 
 export const routes = [
     {
         path: '/',
-        element: <Home />
+        element: <Home/>
     },
     {
         path: '/login',
-        element: <Login />
+        element: <Login/>
     },
     {
-        path: '/account_type',
-        element: <AccountType />
+        path: '/selec_reg',
+        element: <SelecReg/>
     },
 ]
