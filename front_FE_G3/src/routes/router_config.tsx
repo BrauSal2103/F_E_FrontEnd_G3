@@ -1,4 +1,4 @@
-import { Home, Login, SelecReg } from "../index.tsx"
+import { Home, Login, SelecReg } from "../index.ts"
 
 export const routes = [
     {
